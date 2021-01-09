@@ -1,7 +1,7 @@
-## 收集爬取词库
+## 收集、爬取词库
 
-| 词库类型 | 网址                                 | 词条数目 |
-| -------- | ------------------------------------ | -------- |
-| 歇后语   | https://www.diyifanwen.com/tool/xhy/ | 1000     |
-| 歇后语   | http://www.20z.com/tool/xiehouyu/    | 14032    |
-| 成语     | https://cy.hwxnet.com/               | 43165    |
+| 词库                          | 网址                                 | 词条数目 |
+| ----------------------------- | ------------------------------------ | -------- |
+| spider/歇后语\_diyifanwen.txt | https://www.diyifanwen.com/tool/xhy/ | 1000     |
+| spider/歇后语\_20z.txt        | http://www.20z.com/tool/xiehouyu/    | 14032    |
+| spider/成语\_hwxnet.txt       | https://cy.hwxnet.com/               | 43165    |
